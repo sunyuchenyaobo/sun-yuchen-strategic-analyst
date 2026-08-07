@@ -1,0 +1,26 @@
+# 音频与原始媒体（版权材料 + 体积过大）
+1~50/
+51~100/
+101~155/
+_transcripts/
+*.mp3
+*.m4a
+*.mp4
+*.wav
+*.docx
+*.epub
+*.baiduyun*
+
+# 私人数据
+recording*.srt
+IDEA.md
+.hermes/
+__pycache__/
+
+# 中间产物与临时脚本
+_l1_work/
+_srt_tagged.txt
+_t.py
+_tag_srt.py
+_srt_to_l0.py
+_transcribe_batch.py
