@@ -30,8 +30,8 @@ L3 画像层  → persona.md  （孙宇晨2016-17投资观/风险偏好/决策�
 零第三方依赖（纯 Python 标准库），clone 后直接跑：
 
 ```bash
-git clone https://github.com/sunyuchenyaobo/孙宇晨战略分析师.git
-cd 孙宇晨战略分析师
+git clone https://github.com/sunyuchenyaobo/Sun-Yuchen-Strategic-Analyst.git
+cd Sun-Yuchen-Strategic-Analyst
 python ask.py "该不该借钱创业"
 ```
 
